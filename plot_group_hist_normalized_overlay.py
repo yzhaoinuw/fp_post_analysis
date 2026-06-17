@@ -53,7 +53,7 @@ colors = cycle(plt.rcParams['axes.prop_cycle'].by_key()['color'])  # default mat
 linestyles = cycle(['solid', 'dashed', 'dashdot', 'dotted'])  # different line styles
 
 # Step 4: Plot
-plt.figure(figsize=(6, 8))
+plt.figure(figsize=(12, 16))
 
 # signal_A normalized overlay
 plt.subplot(2, 1, 1)
