@@ -1,5 +1,7 @@
 # Fiber Photometry Post Analysis
 
+[![Agent Collab Treaty](https://raw.githubusercontent.com/yzhaoinuw/agent_collab_treaty/main/assets/treaty-adopted.svg)](https://github.com/yzhaoinuw/agent_collab_treaty)
+
 Small Python workspace for plotting fiber photometry `.mat` outputs. The main workflow compares signal distributions across experimental groups.
 
 ## Quick Start

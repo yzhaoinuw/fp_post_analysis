@@ -10,6 +10,10 @@ Update this log at the end of any substantive work session unless the user expli
 
 ## 2026-06-23
 
+### Added Agent Collab Treaty adoption badge (GPT-5)
+
+- Added the official centrally hosted tri-color Agent Collab Treaty adoption badge to the user-facing README.
+
 ### Added micro-arousal plotting and condensed alignment messages (GPT-5)
 
 - Added sleep score 3 as `MA`, including it in signal pooling, support reporting, and a fourth histogram panel.
