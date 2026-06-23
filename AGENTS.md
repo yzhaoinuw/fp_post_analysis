@@ -16,7 +16,7 @@ Do not automatically read every markdown file. Use the map below:
 Use the local conda environment:
 
 ```powershell
-conda activate fiber_photometry
+conda activate fp_analysis_dist
 ```
 
 The environment is expected to provide `numpy`, `scipy`, `matplotlib`, `pandas`, and Excel support for `pandas.read_excel` when using `read_events.py`.

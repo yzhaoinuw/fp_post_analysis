@@ -5,7 +5,7 @@ Small Python workspace for plotting fiber photometry `.mat` outputs. The main wo
 ## Quick Start
 
 ```powershell
-conda activate fiber_photometry
+conda activate fp_analysis_dist
 python plot_group_hist_normalized_overlay.py
 ```
 

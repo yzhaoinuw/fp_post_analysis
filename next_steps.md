@@ -16,6 +16,5 @@ The repo is intentionally simple and script-driven. Future cleanup is optional u
 
 Possible follow-ups:
 
-- Add command-line arguments or a tiny config file for `file_map`, signal names, and output path.
 - Standardize saved group figures under `plots/`.
 - Add a lightweight smoke test that imports helper functions if scripts are refactored into reusable modules.

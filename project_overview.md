@@ -6,6 +6,8 @@ This repository is a small fiber photometry post-analysis workspace. It contains
 
 The main script is `plot_group_hist_normalized_overlay.py`. It compares grouped distributions for two signals by pooling files within each group, clipping outliers to a global 1st-99th percentile range, and drawing density-normalized overlay histograms.
 
+Use the local `fp_analysis_dist` conda environment for this repository.
+
 ## Active Runtime Path
 
 ### 1. Configure Groups
